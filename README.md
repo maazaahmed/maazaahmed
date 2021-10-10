@@ -2,7 +2,7 @@
 
 
 
-- 🔭 I’m currently working on iOS, Django, machine learning, deep learning and many other platforms :computer:
+- 🔭 I’m currently working on Swift, Python, PowerBI, machine learning, deep learning and many other platforms :computer:
 - 🌱 I’m currently learning everything :smile:
 - 👯 I’m looking to collaborate with any passionate content creater
 - 💬 Ask me about my skills and experience 
